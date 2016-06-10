@@ -23,7 +23,7 @@ var w = 430;
 		   .attr("x", x)
 		   .attr("font-size", size)
 		   .attr("fill",col)
-		   .attr("font-family","Roboto Condensed"); 
+		   .attr("font-family","Catamaran"); 
 		   
 		   return text1;
 		 }
