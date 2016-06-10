@@ -61,7 +61,7 @@ var arc3 = d3.svg.arc()
 		svg.append("path").attr("class", "arc3").attr("d", arc3).attr("fill","#33cc33")
 		.on("mouseover", function(d) {	
 					t.transition().duration(200).style("opacity", 1);
-					t.html("<font size=3>" + "அ.இ.அ.தி.மு.க கூட்டணி பெற்ற மொத்த வாக்குகள் 40.8%" + "</font>").style("left", 100).style("top", 100);
+					t.html("<font size=3>" + "அ.இ.அ.தி.மு.க பெற்ற மொத்த வாக்குகள் 40.8%" + "</font>").style("left", 100).style("top", 100);
 					d3.selectAll(".arc1, .arc4, .arc6, .arc7").attr("fill","rgb(204,204,204)"); 
 		})
 		.on("mouseout", function(d) {				
@@ -77,7 +77,7 @@ var arc4 = d3.svg.arc()
 		svg.append("path").attr("class", "arc4").attr("d", arc4).attr("fill","#ff4d4d")
 		.on("mouseover", function(d) {	
 					t.transition().duration(200).style("opacity", 1);
-					t.html("<font size=3>" + "தி.மு.க கூட்டணி பெற்ற மொத்த வாக்குகள் 41.1%" + "</font>").style("left", 100).style("top", 100);
+					t.html("<font size=3>" + "தி.மு.க பெற்ற மொத்த வாக்குகள் 41.1%" + "</font>").style("left", 100).style("top", 100);
 					d3.selectAll(".arc, .arc3, .arc6, .arc7").attr("fill","rgb(204,204,204)");
 		})
 		.on("mouseout", function(d) {				
@@ -104,7 +104,7 @@ var arc6 = d3.svg.arc()
 		svg.append("path").attr("class", "arc6").attr("d", arc6).attr("fill","#70db70")
 		.on("mouseover", function(d) {	
 					t.transition().duration(200).style("opacity", 1);
-					t.html("<font size=3>" + "அ.இ.அ.தி.மு.க பெற்ற மொத்த வாக்குகள் 40.8%" + "</font>").style("left", 100).style("top", 100);
+					t.html("<font size=3>" + "அ.இ.அ.தி.மு.க கூட்டணி பெற்ற மொத்த வாக்குகள் 40.8%" + "</font>").style("left", 100).style("top", 100);
 					d3.selectAll(".arc1, .arc4, .arc7").attr("fill","rgb(204,204,204)");
 		})
 		.on("mouseout", function(d) {				
@@ -120,7 +120,7 @@ var arc7 = d3.svg.arc()
 		.on("mouseover", function(d) {	
 					t.transition().duration(200).style("opacity", 1);
 					
-					t.html("<font size=3>" + "தி.மு.க கூட்டணி பெற்ற மொத்த வாக்குகள் 39.7%/font>").style("left", 100).style("top", 100);
+					t.html("<font size=3>" + "தி.மு.க கூட்டணி பெற்ற மொத்த வாக்குகள் 39.7%" + "</font>").style("left", 100).style("top", 100);
 					d3.selectAll(".arc, .arc3, .arc6").attr("fill","rgb(204,204,204)");
 		})
 		.on("mouseout", function(d) {				
@@ -160,7 +160,7 @@ var tx = svg.append("text").text("131").attr("x",-15).attr("y",70).attr("font-si
 var tx3 = svg.append("text").text("40.8%").attr("x",-15).attr("y",92).attr("font-size",15).attr("fill","white").attr("transform","rotate(-40)").attr("font-family","Roboto Condensed")
 		.on("mouseover", function(d) {	
 					t.transition().duration(200).style("opacity", 1);
-					t.html("<font size=3>" + "அ.இ.அ.தி.மு.க கூட்டணி பெற்ற மொத்த வாக்குகள் 40.8%" + "</font>").style("left", 100).style("top", 100);
+					t.html("<font size=3>" + "அ.இ.அ.தி.மு.க பெற்ற மொத்த வாக்குகள் 40.8%" + "</font>").style("left", 100).style("top", 100);
 					d3.selectAll(".arc1, .arc4, .arc6, .arc7").attr("fill","rgb(204,204,204)"); 
 		})
 		.on("mouseout", function(d) {				
@@ -174,7 +174,7 @@ var tx3 = svg.append("text").text("40.8%").attr("x",-15).attr("y",92).attr("font
 var tx6 = svg.append("text").text("40.8%").attr("x",-15).attr("y",115).attr("font-size",15).attr("fill","white").attr("transform","rotate(-40)").attr("font-family","Roboto Condensed")
 		.on("mouseover", function(d) {	
 					t.transition().duration(200).style("opacity", 1);
-					t.html("<font size=3>" + "அ.இ.அ.தி.மு.க பெற்ற மொத்த வாக்குகள் 40.8%" + "</font>").style("left", 100).style("top", 100);
+					t.html("<font size=3>" + "அ.இ.அ.தி.மு.க கூட்டணி பெற்ற மொத்த வாக்குகள் 40.8%" + "</font>").style("left", 100).style("top", 100);
 					d3.selectAll(".arc1, .arc4, .arc7").attr("fill","rgb(204,204,204)");
 		})
 		.on("mouseout", function(d) {				
@@ -203,7 +203,7 @@ var tx1 = svg.append("text").text("89").attr("x",-15).attr("y",70).attr("font-si
 var tx4 = svg.append("text").text("41.1%").attr("x",-15).attr("y",92).attr("font-size",15).attr("fill","white").attr("transform","rotate(40)").attr("font-family","Roboto Condensed")
 		.on("mouseover", function(d) {	
 					t.transition().duration(200).style("opacity", 1);
-					t.html("<font size=3>" + "தி.மு.க கூட்டணி பெற்ற மொத்த வாக்குகள் 41.1%" + "</font>").style("left", 100).style("top", 100);
+					t.html("<font size=3>" + "தி.மு.க பெற்ற மொத்த வாக்குகள் 41.1%" + "</font>").style("left", 100).style("top", 100);
 					d3.selectAll(".arc, .arc3, .arc6, .arc7").attr("fill","rgb(204,204,204)");
 		})
 		.on("mouseout", function(d) {				
@@ -218,7 +218,7 @@ var tx7 = svg.append("text").text("39.7%").attr("x",-15).attr("y",117).attr("fon
 		.on("mouseover", function(d) {	
 					t.transition().duration(200).style("opacity", 1);
 					
-					t.html("<font size=3>" + "தி.மு.க கூட்டணி பெற்ற மொத்த வாக்குகள் 39.7%/font>").style("left", 100).style("top", 100);
+					t.html("<font size=3>" + "தி.மு.க கூட்டணி பெற்ற மொத்த வாக்குகள் 39.7%" + "</font>").style("left", 100).style("top", 100);
 					d3.selectAll(".arc, .arc3, .arc6").attr("fill","rgb(204,204,204)");
 		})
 		.on("mouseout", function(d) {				
@@ -227,6 +227,7 @@ var tx7 = svg.append("text").text("39.7%").attr("x",-15).attr("y",117).attr("fon
 					d3.select(".arc3").attr("fill","#33cc33"); 
 					d3.select(".arc6").attr("fill","#70db70");
 		});
+
 		   
 $( "#tooltip" ).position({
   my: "center",
