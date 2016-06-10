@@ -170,7 +170,7 @@ svg.selectAll("text")
 		   .attr("font-size",function(d){ return d.size; })
 		   .attr("fill",function(d){ return d.col; })
 		   .attr("transform", function(d){ return d.ang; })
-		   .attr("font-family","Roboto Condensed");
+		   .attr("font-family","Cataraman");
 		   
 		$( "#tooltip" ).position({
   my: "center",
