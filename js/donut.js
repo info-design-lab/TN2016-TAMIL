@@ -214,7 +214,7 @@ var tx4 = svg.append("text").text("41.1%").attr("x",-15).attr("y",92).attr("font
 					d3.select(".arc7").attr("fill","#ff8080");
 		});
 
-var tx7 = svg.append("text").text("39.7%").attr("x",-15).attr("y",117).attr("font-size",15).attr("fill","white").attr("transform","rotate(40)").attr("font-family","Roboto Condensed")
+var tx7 = svg.append("text").text("39.7%").attr("x",-15).attr("y",117).attr("font-size",15).attr("fill","white").attr("transform","rotate(40)").attr("font-family","Cataraman")
 		.on("mouseover", function(d) {	
 					t.transition().duration(200).style("opacity", 1);
 					
