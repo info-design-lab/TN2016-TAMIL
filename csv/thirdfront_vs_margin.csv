@@ -1,6 +1,6 @@
 CONUM,CONAME,MARGIN,3F,LOG(MAR),LOG(3F),WINPARTY,TYPE1,TYPE2,RECTPOS,INDEX,CONAME_TAMIL,WINPARTY_TAMIL
 1,Thalli,6245,68184,3.795532443,4.833682475,DMK,Margin,ThirdFront,53,0,தளி,தி.மு.க
-2,Kattumannarkoil(SC),87,48363,1.939519253,4.684513233,AIADMK,Margin,ThirdFront,58,2,காட்டுமன்னார்கோவில் (தனித்தொகுதி),அ.இ.அ.தி.மு.க
+2,Kattumannarkoil(SC),87,48363,1.939519253,4.684513233,AIADMK,Margin,ThirdFront,58,2,காட்டுமன்னார்கோவில் (தனி),அ.இ.அ.தி.மு.க
 3,Ulundurpettai,4164,34447,3.619510721,4.537151405,AIADMK,Margin,ThirdFront,63,4,உளுந்தூர்பேட்டை,அ.இ.அ.தி.மு.க
 4,Bhuvanagiri,5488,33662,3.739414103,4.527139916,DMK,Margin,ThirdFront,68,6,புவனகிரி,தி.மு.க
 5,Harur,11421,33632,4.057704132,4.526752694,AIADMK,Margin,ThirdFront,73,8,அரூர்,அ.இ.அ.தி.மு.க
@@ -48,11 +48,11 @@ CONUM,CONAME,MARGIN,3F,LOG(MAR),LOG(3F),WINPARTY,TYPE1,TYPE2,RECTPOS,INDEX,CONAM
 47,Poonamallee,11763,15051,4.070518097,4.177565356,AIADMK,Margin,ThirdFront,283,92,பூந்தமல்லி,அ.இ.அ.தி.மு.க
 48,Tirukkoyilur,41057,15045,4.613387213,4.177392192,DMK,Margin,ThirdFront,288,94,திருக்கோயிலூர்,தி.மு.க
 49,Vilathikulam,18718,15030,4.272259443,4.176958981,AIADMK,Margin,ThirdFront,293,96,விளாத்திகுளம்,அ.இ.அ.தி.மு.க
-50,Avanashi (SC),30674,15016,4.486770413,4.17655426,AIADMK,Margin,ThirdFront,298,98,அவினாசி (தனித்தொகுதி),அ.இ.அ.தி.மு.க
+50,Avanashi (SC),30674,15016,4.486770413,4.17655426,AIADMK,Margin,ThirdFront,298,98,அவினாசி (தனி),அ.இ.அ.தி.மு.க
 51,Tindivanam,101,14928,2.004321374,4.174001626,DMK,Margin,ThirdFront,303,100,திண்டிவனம்,தி.மு.க
 52,Palladam,32174,14841,4.507505057,4.171463165,AIADMK,Margin,ThirdFront,308,102,பல்லடம்,அ.இ.அ.தி.மு.க
 53,Poompuhar,19935,14806,4.29961624,4.170437745,AIADMK,Margin,ThirdFront,313,104,பூம்புகார்,அ.இ.அ.தி.மு.க
-54,Tittagudi (SC),2212,14657,3.344785123,4.166045088,DMK,Margin,ThirdFront,318,106,திட்டக்குடி (தனித்தொகுதி),தி.மு.க
+54,Tittagudi (SC),2212,14657,3.344785123,4.166045088,DMK,Margin,ThirdFront,318,106,திட்டக்குடி (தனி),தி.மு.க
 55,Tambaram,14445,14559,4.159717546,4.163131546,DMK,Margin,ThirdFront,323,108,தாம்பரம்,தி.மு.க
 56,Karaikudi,18283,14279,4.262047459,4.154697794,INC,Margin,ThirdFront,328,110,காரைக்குடி,இ.தே.க
 57,Rishivandiyam,20503,14239,4.311817412,4.15347949,DMK,Margin,ThirdFront,333,112,ரிஷிவந்தியம்,தி.மு.க
@@ -151,7 +151,7 @@ CONUM,CONAME,MARGIN,3F,LOG(MAR),LOG(3F),WINPARTY,TYPE1,TYPE2,RECTPOS,INDEX,CONAM
 150,Udumalaipettai,5687,7090,3.754883228,3.850646235,AIADMK,Margin,ThirdFront,798,298,உடுமலைப்பேட்டை,அ.இ.அ.தி.மு.க
 151,Usilampatti,32906,7079,4.517275093,3.849971912,AIADMK,Margin,ThirdFront,803,300,உசிலம்பட்டி,அ.இ.அ.தி.மு.க
 152,Ambur,28006,7043,4.447251084,3.847757688,AIADMK,Margin,ThirdFront,808,302,ஆம்பூர்,அ.இ.அ.தி.மு.க
-153,Dharapuram (SC),10017,7029,4.000737674,3.846893543,INC,Margin,ThirdFront,813,304,தாராபுரம் (தனித்தொகுதி),இ.தே.க
+153,Dharapuram (SC),10017,7029,4.000737674,3.846893543,INC,Margin,ThirdFront,813,304,தாராபுரம் (தனி),இ.தே.க
 154,Arani,7327,7025,3.864926192,3.846646329,AIADMK,Margin,ThirdFront,818,306,ஆரணி,அ.இ.அ.தி.மு.க
 155,Thiruvallur,5138,7006,3.7107941,3.845470133,DMK,Margin,ThirdFront,823,308,திருவள்ளூர்,தி.மு.க
 156,Bhavani,24887,6927,4.395972548,3.840545188,AIADMK,Margin,ThirdFront,828,310,பவானி,அ.இ.அ.தி.மு.க
