@@ -437,7 +437,7 @@ function opaque(){
         },
 		/*format:wNumb({'<span class="noUi-tooltip__label">'+'Victory Margins :'+'</span>'}),*/
 		 tooltips:wNumb({decimals:0,
-		 	prefix:'வாக்குகள்',
+		 	prefix:'வாக்குகள்: ',
 		 	
 		 }),
 		 
