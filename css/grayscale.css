@@ -730,6 +730,7 @@ t.tooltip34 {
 }
 
 .btn2:hover {
+	color: #ffffff;
   background: #ff6693;
   text-decoration: none;
 }
