@@ -34,7 +34,7 @@ var dataset_3f = [];
 											d3.select(this).attr("width", 7).style("fill", "rgb(235,235,235)");
 											div.transition().duration(200).style("opacity", 1);
 											var mouse=d3.mouse(d3.select(this).node());
-											div.html("<font size=3>" + "<b>" + d[10] + "</b>" + "</font>" + "<br/>" + d[11] + "<br/>" + "<br/>" + "வெற்றிப்பெற்றவரின் வாக்குகள்" + "&nbsp;" + "&nbsp; " + d[4] + "<br/>" + "மூன்றாம் அணி" +  "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; " + d[5]).style("left", (mouse[0] + 25) + "px").style("top", (mouse[1] - 28) + "px");	
+											div.html("<font size=3>" + "<b>" + d[10] + "</b>" + "</font>" + "<br/>" + d[11] + "<br/>" + "<br/>" + "வெற்றிப்பெற்றவரின் வாக்குகள்" + "&nbsp;" + "&nbsp; " + d[4] + "<br/>" + "மூன்றாம் அணி" +  "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  " + d[5]).style("left", (mouse[0] + 25) + "px").style("top", (mouse[1] - 28) + "px");	
 											if(d[1]<d[8]) {
 											drawLineRollover([{"x": d[0], "y": d[1]+1, "p": d[2]}, {"x": d[0], "y": d[8]-3, "p": d[2]}],2);
 											}
