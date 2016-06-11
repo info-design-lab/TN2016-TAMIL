@@ -1,6 +1,6 @@
 CONUM,CONAME,MARGIN,NOTA,LOG(MAR),LOG(NOTA),PMK,LOG(PMK),3F,LOG(3F),WINPARTY,TYPE1,TYPE2,TYPE3,RECTPOS,CONAME_TAMIL,WINPARTY_TAMIL
 1,Radhapuram,49,1821,1.69,3.26,501,2.7,8362,3.92,AIADMK,NOTA,PMK,ThirdFront,53,ராதாபுரம்,அ.இ.அ.தி.மு.க
-4,Kattumannarkoil(SC),87,1025,1.94,3.01,25890,4.41,48363,4.68,AIADMK,NOTA,PMK,ThirdFront,68,காட்டுமன்னார்கோவில் (தனித்தொகுதி),அ.இ.அ.தி.மு.க
+4,Kattumannarkoil(SC),87,1025,1.94,3.01,25890,4.41,48363,4.68,AIADMK,NOTA,PMK,ThirdFront,68,காட்டுமன்னார்கோவில் (தனி),அ.இ.அ.தி.மு.க
 7,Tindivanam,101,2112,2,3.32,29848,4.47,14928,4.17,DMK,NOTA,PMK,ThirdFront,83,திண்டிவனம்,தி.மு.க
 10,Cheyyur,304,1827,2.48,3.26,17892,4.25,17927,4.25,DMK,NOTA,PMK,ThirdFront,98,செய்யூர்,தி.மு.க
 13,Kovilpatti,428,2350,2.63,3.37,1075,3.03,28512,4.46,AIADMK,NOTA,PMK,ThirdFront,113,கோவில்பட்டி,அ.இ.அ.தி.மு.க
@@ -24,7 +24,7 @@ CONUM,CONAME,MARGIN,NOTA,LOG(MAR),LOG(NOTA),PMK,LOG(PMK),3F,LOG(3F),WINPARTY,TYP
 67,Ariyalur,2043,1896,3.31,3.28,13529,4.13,13599,4.13,AIADMK,NOTA,PMK,ThirdFront,383,அரியலூர்,அ.இ.அ.தி.மு.க
 70,Pudukkottai,2084,1637,3.32,3.21,667,2.82,7810,3.89,DMK,NOTA,PMK,ThirdFront,398,புதுக்கோட்டை,தி.மு.க
 73,Natham,2110,1844,3.32,3.27,1155,3.06,9373,3.97,DMK,NOTA,PMK,ThirdFront,413,நத்தம்,தி.மு.க
-76,Tittagudi (SC),2212,1957,3.34,3.29,11438,4.06,14657,4.17,DMK,NOTA,PMK,ThirdFront,428,திட்டக்குடி (தனித்தொகுதி),தி.மு.க
+76,Tittagudi (SC),2212,1957,3.34,3.29,11438,4.06,14657,4.17,DMK,NOTA,PMK,ThirdFront,428,திட்டக்குடி (தனி),தி.மு.க
 79,Modakkurichi,2222,2715,3.35,3.43,2809,3.45,4853,3.69,AIADMK,NOTA,PMK,ThirdFront,443,மொடக்குறிச்சி,அ.இ.அ.தி.மு.க
 82,Gangavalli,2262,1766,3.35,3.25,10715,4.03,7114,3.85,AIADMK,NOTA,PMK,ThirdFront,458,கங்கவள்ளி,அ.இ.அ.தி.மு.க
 85,Aranthangi,2291,775,3.36,2.89,626,2.8,6341,3.8,AIADMK,NOTA,PMK,ThirdFront,473,அறந்தாங்கி,அ.இ.அ.தி.மு.க
@@ -95,7 +95,7 @@ CONUM,CONAME,MARGIN,NOTA,LOG(MAR),LOG(NOTA),PMK,LOG(PMK),3F,LOG(3F),WINPARTY,TYP
 280,Salem (North),9873,4009,3.99,3.6,7975,3.9,4157,3.62,DMK,NOTA,PMK,ThirdFront,1448,சேலம் (வடக்கு),தி.மு.க
 283,Mannargudi,9937,1774,4,3.25,1983,3.3,5966,3.78,DMK,NOTA,PMK,ThirdFront,1463,மண்ணார்குடி,தி.மு.க
 286,Alangudi,9941,1068,4,3.03,5514,3.74,11387,4.06,DMK,NOTA,PMK,ThirdFront,1478,ஆலங்குடி,தி.மு.க
-289,Dharapuram (SC),10017,2883,4,3.46,1515,3.18,7029,3.85,INC,NOTA,PMK,ThirdFront,1493,தாராபுரம் (தனித்தொகுதி),இ.தே.க
+289,Dharapuram (SC),10017,2883,4,3.46,1515,3.18,7029,3.85,INC,NOTA,PMK,ThirdFront,1493,தாராபுரம் (தனி),இ.தே.க
 292,Kilvelur,10170,1049,4.01,3.02,2637,3.42,16499,4.22,DMK,NOTA,PMK,ThirdFront,1508,கீழ்வேளூர்,தி.மு.க
 295,Vanur,10223,1430,4.01,3.16,27240,4.44,23873,4.38,AIADMK,NOTA,PMK,ThirdFront,1523,வானூர்,அ.இ.அ.தி.மு.க
 298,Udhagamandalam,10418,2912,4.02,3.46,781,2.89,3111,3.49,INC,NOTA,PMK,ThirdFront,1538,உதகமண்டலம்,இ.தே.க
@@ -205,7 +205,7 @@ CONUM,CONAME,MARGIN,NOTA,LOG(MAR),LOG(NOTA),PMK,LOG(PMK),3F,LOG(3F),WINPARTY,TYP
 610,Tiruchirappalli (West),28415,4100,4.45,3.61,1780,3.25,11469,4.06,DMK,NOTA,PMK,ThirdFront,3098,திருச்சிராப்பள்ளி (மேற்கு),தி.மு.க
 613,Andipatti,30196,1909,4.48,3.28,817,2.91,10776,4.03,AIADMK,NOTA,PMK,ThirdFront,3113,ஆண்டிப்பட்டி,அ.இ.அ.தி.மு.க
 616,Salem (South),30453,4121,4.48,3.62,6325,3.8,3983,3.6,AIADMK,NOTA,PMK,ThirdFront,3128,சேலம் (தெற்கு),அ.இ.அ.தி.மு.க
-619,Avanashi (SC),30674,3534,4.49,3.55,1480,3.17,15016,4.18,AIADMK,NOTA,PMK,ThirdFront,3143,அவினாசி (தனித்தொகுதி),அ.இ.அ.தி.மு.க
+619,Avanashi (SC),30674,3534,4.49,3.55,1480,3.17,15016,4.18,AIADMK,NOTA,PMK,ThirdFront,3143,அவினாசி (தனி),அ.இ.அ.தி.மு.க
 622,Musiri,32087,2485,4.51,3.4,1423,3.15,8581,3.93,AIADMK,NOTA,PMK,ThirdFront,3158,முசிறி,அ.இ.அ.தி.மு.க
 625,Palladam,32174,3904,4.51,3.59,2292,3.36,14841,4.17,AIADMK,NOTA,PMK,ThirdFront,3173,பல்லடம்,அ.இ.அ.தி.மு.க
 628,Madurai East,32772,3246,4.52,3.51,1113,3.05,11599,4.06,DMK,NOTA,PMK,ThirdFront,3188,மதுரை (கிழக்கு),தி.மு.க
