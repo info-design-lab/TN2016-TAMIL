@@ -31,7 +31,7 @@ CONUM,CONAME,MARGIN,NOTA,LOG(MAR),LOG(NOTA),WINPARTY,TYPE1,TYPE2,RECTPOS,INDEX,C
 30,Thiyagarayanagar,3155,3570,3.5,3.55,AIADMK,Margin,Nota,198,58,தியாகராயநகர்,அ.இ.அ.தி.மு.க
 31,Kolathur,37730,3554,4.58,3.55,DMK,Margin,Nota,203,60,கொளத்தூர்,தி.மு.க
 32,Saidapet,16255,3541,4.21,3.55,DMK,Margin,Nota,208,62,சைதாப்பேட்டை,தி.மு.க
-33,Avanashi (SC),30674,3534,4.49,3.55,AIADMK,Margin,Nota,213,64,அவினாசி (தனித்தொகுதி),அ.இ.அ.தி.மு.க
+33,Avanashi (SC),30674,3534,4.49,3.55,AIADMK,Margin,Nota,213,64,அவினாசி (தனி),அ.இ.அ.தி.மு.க
 34,Chepauk-Thiruvallikeni,14164,3494,4.15,3.54,DMK,Margin,Nota,218,66,சேப்பாக்கம்,தி.மு.க
 35,Madurai North,18839,3479,4.28,3.54,AIADMK,Margin,Nota,223,68,மதுரை (வடக்கு),அ.இ.அ.தி.மு.க
 36,Tiruppur (North),37774,3447,4.58,3.54,AIADMK,Margin,Nota,228,70,திருப்பூர் (வடக்கு),அ.இ.அ.தி.மு.க
@@ -64,7 +64,7 @@ CONUM,CONAME,MARGIN,NOTA,LOG(MAR),LOG(NOTA),WINPARTY,TYPE1,TYPE2,RECTPOS,INDEX,C
 63,Madurai South,23763,2918,4.38,3.47,AIADMK,Margin,Nota,363,124,மதுரை (தெற்கு),அ.இ.அ.தி.மு.க
 64,Thiruvottiyur,4863,2917,3.69,3.46,DMK,Margin,Nota,368,126,திருவொற்றியூர்,தி.மு.க
 65,Udhagamandalam,10418,2912,4.02,3.46,INC,Margin,Nota,373,128,உதகமண்டலம்,இ.தே.க
-66,Dharapuram (SC),10017,2883,4,3.46,INC,Margin,Nota,378,130,தாராபுரம் (தனித்தொகுதி),இ.தே.க
+66,Dharapuram (SC),10017,2883,4,3.46,INC,Margin,Nota,378,130,தாராபுரம் (தனி),இ.தே.க
 67,Dr.Radhakrishnan Nagar,39545,2873,4.6,3.46,AIADMK,Margin,Nota,383,132,ராதாகிருஷ்ணன் நகர்,அ.இ.அ.தி.மு.க
 68,Egmore,10679,2840,4.03,3.45,DMK,Margin,Nota,388,134,எழும்பூர்,தி.மு.க
 69,Virudhunagar,2870,2835,3.46,3.45,DMK,Margin,Nota,393,136,விருதுநகர்,தி.மு.க
@@ -138,7 +138,7 @@ CONUM,CONAME,MARGIN,NOTA,LOG(MAR),LOG(NOTA),WINPARTY,TYPE1,TYPE2,RECTPOS,INDEX,C
 137,Thiruvaiyaru,14343,1987,4.16,3.3,DMK,Margin,Nota,733,272,திருவைய்யாறு,தி.மு.க
 138,Kadayanallur,1194,1969,3.08,3.29,IUML,Margin,Nota,738,274,கடையநல்லூர்,இ.ஒ.மு.லீ
 139,Bodinayakanur,15608,1966,4.19,3.29,AIADMK,Margin,Nota,743,276,போடிநாயக்கனூர்,அ.இ.அ.தி.மு.க
-140,Tittagudi (SC),2212,1957,3.34,3.29,DMK,Margin,Nota,748,278,திட்டக்குடி (தனித்தொகுதி),தி.மு.க
+140,Tittagudi (SC),2212,1957,3.34,3.29,DMK,Margin,Nota,748,278,திட்டக்குடி (தனி),தி.மு.க
 141,Lalgudi,3837,1953,3.58,3.29,DMK,Margin,Nota,753,280,லால்குடி,தி.மு.க
 142,Jayankondam,22934,1950,4.36,3.29,AIADMK,Margin,Nota,758,282,ஜெயங்கொண்டம்,அ.இ.அ.தி.மு.க
 143,Tiruppattur,42004,1939,4.62,3.29,DMK,Margin,Nota,763,284,திருப்பத்தூர்,தி.மு.க
@@ -223,7 +223,7 @@ CONUM,CONAME,MARGIN,NOTA,LOG(MAR),LOG(NOTA),WINPARTY,TYPE1,TYPE2,RECTPOS,INDEX,C
 222,Mudhukulathur,13348,1059,4.13,3.02,INC,Margin,Nota,1158,442,முதுகுளத்தூர்,இ.தே.க
 223,Kilvelur,10170,1049,4.01,3.02,DMK,Margin,Nota,1163,444,கீழ்வேளூர்,தி.மு.க
 224,Sankarapuram,14528,1032,4.16,3.01,DMK,Margin,Nota,1168,446,சங்கராப்புரம்,தி.மு.க
-225,Kattumannarkoil(SC),87,1025,1.94,3.01,AIADMK,Margin,Nota,1173,448,காட்டுமன்னார்கோவில் (தனித்தொகுதி),அ.இ.அ.தி.மு.க
+225,Kattumannarkoil(SC),87,1025,1.94,3.01,AIADMK,Margin,Nota,1173,448,காட்டுமன்னார்கோவில் (தனி),அ.இ.அ.தி.மு.க
 226,Nagapattinam,20550,996,4.31,3,AIADMK,Margin,Nota,1178,450,நாகப்பட்டினம்,அ.இ.அ.தி.மு.க
 227,Viralimalai,8447,974,3.93,2.99,AIADMK,Margin,Nota,1183,452,விராலிமலை,அ.இ.அ.தி.மு.க
 228,Tiruvadanai,8696,939,3.94,2.97,AIADMK,Margin,Nota,1188,454,திரவாடாணை,அ.இ.அ.தி.மு.க
